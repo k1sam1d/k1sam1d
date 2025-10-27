@@ -1,19 +1,15 @@
-<h1 align="center">👋 Hello! I'm BaggerFast </h1>
+<h1 align="center">👋 Hello! I'm technobublik </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/technobublik)
 
-I'm a backend developer from Russia, working at [@VladStandard](https://github.com/VladStandard) / [@Elixor](https://github.com/ElixorTeam).
+I'm a developer from Russia.
 
-I'm interested in web development and games. Also, I hate JavaScript💀
-
-## 🙏 Visit my website
-[BaggerFast's docs](https://baggerfast.github.io/BaggerFast) - Here I post helpful IT manuals. They can be used as references
+I'm interested in user interface development. I'm currently working on a CNC machine interface.
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
